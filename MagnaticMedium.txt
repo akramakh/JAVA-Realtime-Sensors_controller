@@ -1,0 +1,64 @@
++------------------------------------------------------------------------------+
+|                         Sun May 05 15:14:44 IDT 2019                         |
++------------------------------------------------------------------------------+
+1  Time  =>  (15:14:44) 1557058484830  |  Operation =>  Creating Tmperature Sensor object
+2  Time  =>  (15:14:44) 1557058484849  |  Operation =>  Creating Dial Object
+3  Time  =>  (15:14:44) 1557058484849  |  Operation =>  Tmperature Sensor object created Successfuly
+4  Time  =>  (15:14:44) 1557058484849  |  Operation =>  Creating Pressure Sensor object
+5  Time  =>  (15:14:44) 1557058484849  |  Operation =>  Creating Dial Object
+6  Time  =>  (15:14:44) 1557058484849  |  Operation =>  Pressure Sensor object created Successfuly
+7  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Creating Fuel Sensor object
+8  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Creating Dial Object
+9  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Fuel Sensor object created Successfuly
+10  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Creating Smoke Sensor object
+11  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Smoke Sensor object created Successfuly
+12  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Creating Smoke Sensor object
+13  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Smoke Sensor object created Successfuly
+14  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Creating Smoke Sensor object
+15  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Smoke Sensor object created Successfuly
+16  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Creating Smoke Sensor object
+17  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Smoke Sensor object created Successfuly
+18  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Getting Tmperature Sensor's DIAL value, which is 0
+19  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Getting Pressure Sensor's DIAL value, which is 0
+20  Time  =>  (15:14:44) 1557058484865  |  Operation =>  Getting Fuel Sensor's DIAL value, which is 0
+21  Time  =>  (15:14:44) 1557058484917  |  Operation =>  Getting Pressure Sensor's MIN value, which is 0
+22  Time  =>  (15:14:44) 1557058484917  |  Operation =>  Getting Pressure Sensor's MAX value, which is 100
+23  Time  =>  (15:14:44) 1557058484917  |  Operation =>  Getting Tmperature Sensor's MIN value, which is 0
+24  Time  =>  (15:14:44) 1557058484917  |  Operation =>  Getting Tmperature Sensor's MAX value, which is 100
+25  Time  =>  (15:14:44) 1557058484933  |  Operation =>  Getting Fuel Sensor's MIN value, which is 0
+26  Time  =>  (15:14:44) 1557058484933  |  Operation =>  Getting Fuel Sensor's MAX value, which is 100
+27  Time  =>  (15:14:45) 1557058485022  |  Operation =>  Changing Smoke Sensor's LAMB value from "Smoke Sensor Lamb" to "First Smoke Lamb"
+28  Time  =>  (15:14:45) 1557058485022  |  Operation =>  Changing Smoke Sensor's LAMB value from "First Smoke Lamb" to "Second Smoke Lamb"
+29  Time  =>  (15:14:45) 1557058485027  |  Operation =>  Changing Smoke Sensor's LAMB value from "Second Smoke Lamb" to "Third Smoke Lamb"
+30  Time  =>  (15:14:45) 1557058485027  |  Operation =>  Changing Smoke Sensor's LAMB value from "Third Smoke Lamb" to "Fourth Smoke Lamb"
+31  Time  =>  (15:14:45) 1557058485027  |  Operation =>  Getting Pressure Sensor's CURRENT value, which is 10
+32  Time  =>  (15:14:45) 1557058485027  |  Operation =>  Getting Pressure Sensor's MIN value, which is 0
+33  Time  =>  (15:14:45) 1557058485027  |  Operation =>  Getting Pressure Sensor's MAX value, which is 100
+34  Time  =>  (15:14:45) 1557058485039  |  Operation =>  Getting Tmperature Sensor's CURRENT value, which is 10
+35  Time  =>  (15:14:45) 1557058485039  |  Operation =>  Getting Tmperature Sensor's MIN value, which is 0
+36  Time  =>  (15:14:45) 1557058485039  |  Operation =>  Getting Tmperature Sensor's MAX value, which is 100
+37  Time  =>  (15:14:45) 1557058485040  |  Operation =>  Getting Fuel Sensor's CURRENT value, which is 10
+38  Time  =>  (15:14:45) 1557058485040  |  Operation =>  Getting Fuel Sensor's MIN value, which is 0
+39  Time  =>  (15:14:45) 1557058485040  |  Operation =>  Getting Fuel Sensor's MAX value, which is 100
+40  Time  =>  (15:14:45) 1557058485056  |  Operation =>  Getting Tmperature Sensor's CURRENT value, which is 10
+41  Time  =>  (15:14:45) 1557058485058  |  Operation =>  Getting Tmperature Sensor's MIN value, which is 0
+42  Time  =>  (15:14:45) 1557058485058  |  Operation =>  Getting Tmperature Sensor's MAX value, which is 100
+43  Time  =>  (15:14:45) 1557058485059  |  Operation =>  Getting Pressure Sensor's CURRENT value, which is 10
+44  Time  =>  (15:14:45) 1557058485059  |  Operation =>  Getting Pressure Sensor's MIN value, which is 0
+45  Time  =>  (15:14:45) 1557058485059  |  Operation =>  Getting Pressure Sensor's MAX value, which is 100
+46  Time  =>  (15:14:45) 1557058485059  |  Operation =>  Getting Fuel Sensor's CURRENT value, which is 10
+47  Time  =>  (15:14:45) 1557058485059  |  Operation =>  Getting Fuel Sensor's MIN value, which is 0
+48  Time  =>  (15:14:45) 1557058485059  |  Operation =>  Getting Fuel Sensor's MAX value, which is 100
+49  Time  =>  (15:14:45) 1557058485297  |  Operation =>  Observing Fourth Smoke Lamb's Color (GRREN)
+50  Time  =>  (15:14:45) 1557058485297  |  Operation =>  Getting Smoke Sensor's LAMB value from lamb(), which is GRREN
+51  Time  =>  (15:14:45) 1557058485297  |  Operation =>  Observing Fourth Smoke Lamb's Color (GRREN)
+52  Time  =>  (15:14:45) 1557058485298  |  Operation =>  Observing Fourth Smoke Lamb's Color (GRREN)
+53  Time  =>  (15:14:45) 1557058485298  |  Operation =>  Getting Smoke Sensor's LAMB value from lamb(), which is GRREN
+54  Time  =>  (15:14:45) 1557058485298  |  Operation =>  Observing Fourth Smoke Lamb's Color (GRREN)
+55  Time  =>  (15:14:45) 1557058485298  |  Operation =>  Observing Fourth Smoke Lamb's Color (GRREN)
+56  Time  =>  (15:14:45) 1557058485298  |  Operation =>  Getting Smoke Sensor's LAMB value from lamb(), which is GRREN
+57  Time  =>  (15:14:45) 1557058485298  |  Operation =>  Observing Fourth Smoke Lamb's Color (GRREN)
+58  Time  =>  (15:14:45) 1557058485298  |  Operation =>  Observing Fourth Smoke Lamb's Color (GRREN)
+59  Time  =>  (15:14:45) 1557058485298  |  Operation =>  Getting Smoke Sensor's LAMB value from lamb(), which is GRREN
+60  Time  =>  (15:14:45) 1557058485298  |  Operation =>  Observing Fourth Smoke Lamb's Color (GRREN)
+61  Time  =>  (15:14:47) 1557058487555  |  Operation =>  Closing the Program
